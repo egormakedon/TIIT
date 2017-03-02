@@ -1,0 +1,1 @@
+TestAll.bat ConsoleApplication1.exe

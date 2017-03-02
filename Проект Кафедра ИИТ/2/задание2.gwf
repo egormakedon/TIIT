@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/group" idtf="кафедра" shapeColor="0" id="9975568" parent="0" left="0" top="0" right="64.3125" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="395" y="52" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="персона" shapeColor="0" id="9976176" parent="0" left="0" top="0" right="61" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="441" y="490" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="защита дипломной работы" shapeColor="0" id="9978152" parent="0" left="0" top="0" right="195.844" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="462" y="630" haveBus="false" idtf_pos="1">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ИИТ" shapeColor="0" id="9978000" parent="0" left="0" top="0" right="35" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="397" y="183" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Ирина Тимофеевна" shapeColor="0" id="9976024" parent="0" left="0" top="0" right="134.516" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="218" y="234" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="преподаватель кафедры*" shapeColor="0" id="9974504" parent="0" left="0" top="0" right="182.156" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="259" y="148" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="руководитель ДП*" shapeColor="0" id="9976632" parent="0" left="0" top="0" right="133.359" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="105" y="236" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="4 года" shapeColor="0" id="9977848" parent="0" left="0" top="0" right="48.6875" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="677" y="370" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="длительность*" shapeColor="0" id="9975872" parent="0" left="0" top="0" right="116" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="782" y="285" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Основы интеллектуальных систем" shapeColor="0" id="9977240" parent="0" left="0" top="0" right="251.531" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="138" y="324" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="учебный процесс" shapeColor="0" id="9975264" parent="0" left="0" top="0" right="120.828" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="672" y="239" haveBus="false" idtf_pos="3">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="дипломная работа" shapeColor="0" id="9977696" parent="0" left="0" top="0" right="133.844" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-104" y="357" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="учебный процесс" shapeColor="0" id="9975720" parent="0" left="0" top="0" right="120.828" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-102" y="675" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="тема дипломной работы*" shapeColor="0" id="9977088" parent="0" left="0" top="0" right="185.688" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="63" y="417" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="завершающий этап*" shapeColor="0" id="9974352" parent="0" left="0" top="0" right="145.688" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="36" y="522" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="2 домен*" shapeColor="0" id="9976936" parent="0" left="0" top="0" right="66" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="571" y="465" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="1 домен*" shapeColor="0" id="9977544" parent="0" left="0" top="0" right="66" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="570" y="660" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="бакалавр" shapeColor="0" id="9975112" parent="0" left="0" top="0" right="68.3125" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="845" y="562" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="степень*" shapeColor="0" id="9976784" parent="0" left="0" top="0" right="70.8438" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="705" y="468" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="выпускник*" shapeColor="0" id="9976480" parent="0" left="0" top="0" right="85" bottom="24" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="589" y="560" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9029024" parent="0" id_b="9975568" id_e="9978000" b_x="395" b_y="52" e_x="397" e_y="183" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9056800" parent="0" id_b="9978000" id_e="9976024" b_x="397" b_y="183" e_x="218" e_y="234" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9057808" parent="0" id_b="9977240" id_e="9976024" b_x="138" b_y="324" e_x="218" e_y="234" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9054784" parent="0" id_b="9977696" id_e="9977240" b_x="-104" b_y="357" e_x="138" e_y="324" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9059488" parent="0" id_b="9975264" id_e="9977848" b_x="672" b_y="239" e_x="677" e_y="370" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9057640" parent="0" id_b="9975720" id_e="9977696" b_x="-102" b_y="675" e_x="-104" e_y="357" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9055624" parent="0" id_b="9976480" id_e="9978152" b_x="589" b_y="560" e_x="462" e_y="630" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9055120" parent="0" id_b="9976480" id_e="9976176" b_x="589" b_y="560" e_x="441" e_y="490" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="9059320" parent="0" id_b="9976480" id_e="9975112" b_x="589" b_y="560" e_x="845" e_y="562" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9058480" parent="0" id_b="9974504" id_e="9056800" b_x="259" b_y="148" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.636618">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9055288" parent="0" id_b="9976632" id_e="9057808" b_x="105" b_y="236" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.594353">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9058816" parent="0" id_b="9977088" id_e="9054784" b_x="63" b_y="417" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.586307">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9056128" parent="0" id_b="9975872" id_e="9059488" b_x="782" b_y="285" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.465051">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9056968" parent="0" id_b="9978000" id_e="9975264" b_x="397" b_y="183" e_x="672" e_y="239" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9058312" parent="0" id_b="9974352" id_e="9057640" b_x="36" b_y="522" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.483278">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9057304" parent="0" id_b="9976936" id_e="9055120" b_x="571" b_y="465" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.425718">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9055960" parent="0" id_b="9977544" id_e="9055624" b_x="570" b_y="660" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.525036">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="9056632" parent="0" id_b="9976784" id_e="9059320" b_x="705" b_y="468" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.4408">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
